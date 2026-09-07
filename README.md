@@ -39,7 +39,7 @@ I like learning by actually building things rather than just reading about them.
 
 ---
 
-## Vision
+## vision
 
 `learn → build → break → debug → repeat`
 

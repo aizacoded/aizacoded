@@ -4,7 +4,7 @@
 
 ### `B.Tech CSE @ IGDTUW` · `1st Year`
 
-**Python • C • HTML • Git**
+**Python • HTML • Git**
 
 *building things, breaking things, learning things.*
 
